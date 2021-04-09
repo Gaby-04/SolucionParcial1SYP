@@ -31,3 +31,55 @@ sistemas abiertos
    si no se cumplio la meta que se propuso llegar en dicho tiempo
    etc.
 
+6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
+informáticos?
+  Cuando se toman decisiones en las empresas éstas deben de cumplir
+ con ciertas características, ya que de esto depende en muchas ocasiones el éxito o fracaso
+ de la organización, podemos mencionar entre otras:
+
+- Oportunas
+- Rápidas
+- Informadas
+- Efectivas
+- Eficientes (en uso de recursos)
+
+entonces seria mejor utilizar el sistema informatico ya que que es un recurso esencial el cual se utiliza
+ al desempeñar las operaciones diarias y de manera estrategica
+ lo cual es importante integrarla y tenerle disponible para que las 
+personas que tomen las decisiones la anilicen.
+
+La información confiable es crucial para el proceso de toma de decisiones tanto operativas como estratégicas, 
+siendo éstas más certeras cuando están basadas en fuentes de información que ayudan a la empresa a reducir
+ la incertidumbre y el riesgo.
+Para este efecto las tecnologías de información resultan una herramienta muy valiosa 
+que permite recolectar, procesar y almacenar datos que son generados de la misma operación
+ del negocio en el día a día.
+por esa razon es mejor utilizar los sitemas informaticos para la toma de decisiones
+
+
+7- ¿Bajo el punto de vista de unidad productiva, qué es una organización?
+   como unidad productiva, una organización es una entidad social orientada hacia la consecución de metas 
+  con base en un sistema coordinado y estructurado vinculado con el entorno.
+
+
+8- Bajo el enfoque de sistemas, explique ¿cuáles serían las dificultades del administrador moderno?
+  las dificultades son que el administrador esta en medio de una red de interrelaciones dependientes 
+  EI unico objetivo perdurable
+  es el esfuerzo para construir y mantener un sistema predecible y de interrelaciones,
+  de patrones de conducta que estan dentro de !fmites ffsicos razonables. Pero
+  esto es la busqueda de un equilibrio dinamico, ya que las variables del sistema (la
+  division del trabajo y los controles) evolucionan en constante cambio. Por tanto, unicamente
+  aquellos administradores que puedan manejar la incertidumbre, la
+  ambiguedad, pueden tener posibilidades de exito.
+  el administrador moderno tiene que saber sobrellevar todas las cosas de la empresa tener confianza en lo que se esta haciendo
+
+9- ¿Por qué es importante conocer el organigrama de una organización al momento de realizar un análisis de los
+cambios o mejoras que se pueden hacer en esta?
+   es importantes porque ahi podremos encontrar a las personas que estan en los mandos medios y
+   en los mandos altos con los cuales se debe tratar con los que se tiene que hablar ya que son las personas
+   que saben como son los procesos de la empresa con los que se tiene que hablar y asi sacar los requerimientos
+   del cual se puede valer para poder empezar hacer un prototipo para  luego
+   empezar hacer los cambios o mejoras que se quieren hacer o desarrollar.
+  
+10- Es el paso inicial de un estudio organizacional.
+    Visión del Estudio
