@@ -55,3 +55,8 @@ Para este efecto las tecnologías de información resultan una herramienta muy v
 que permite recolectar, procesar y almacenar datos que son generados de la misma operación
  del negocio en el día a día.
 por esa razon es mejor utilizar los sitemas informaticos para la toma de decisiones
+
+
+7- ¿Bajo el punto de vista de unidad productiva, qué es una organización?
+   como unidad productiva, una organización es una entidad social orientada hacia la consecución de metas 
+  con base en un sistema coordinado y estructurado vinculado con el entorno.
