@@ -1,3 +1,16 @@
 1- Explique con sus palabras, qué entiende por sistema
    un sistema es como donde estan todo organizado es algo que tiene muchos componentes las cuales son partes fundamentales que se relacionan
 son los medios que la empresa ocupa para realizar sus procesos todas sus partes estan relacionadas logicamente.
+
+2- Mencione 3 ejemplos de sistemas abiertos y 3 ejemplos de sistemas cerrados (deben ser ejemplos distintos a los
+comentados en clase)
+
+sistema cerrado
+-seria un globo en el sistema cerrado ya que no tiene niguna relacion con el entorno
+-Una ciudad en la que las personas no pueden salir ni entrar.
+-Una batería de un auto.
+
+sistemas abiertos
+-Un bosque.
+-Un río.
+-una pecera
