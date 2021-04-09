@@ -31,3 +31,27 @@ sistemas abiertos
    si no se cumplio la meta que se propuso llegar en dicho tiempo
    etc.
 
+6- Explique ¿por qué la toma de decisiones estratégicas en una organización, sería mejor utilizando sistemas
+informáticos?
+  Cuando se toman decisiones en las empresas éstas deben de cumplir
+ con ciertas características, ya que de esto depende en muchas ocasiones el éxito o fracaso
+ de la organización, podemos mencionar entre otras:
+
+- Oportunas
+- Rápidas
+- Informadas
+- Efectivas
+- Eficientes (en uso de recursos)
+
+entonces seria mejor utilizar el sistema informatico ya que que es un recurso esencial el cual se utiliza
+ al desempeñar las operaciones diarias y de manera estrategica
+ lo cual es importante integrarla y tenerle disponible para que las 
+personas que tomen las decisiones la anilicen.
+
+La información confiable es crucial para el proceso de toma de decisiones tanto operativas como estratégicas, 
+siendo éstas más certeras cuando están basadas en fuentes de información que ayudan a la empresa a reducir
+ la incertidumbre y el riesgo.
+Para este efecto las tecnologías de información resultan una herramienta muy valiosa 
+que permite recolectar, procesar y almacenar datos que son generados de la misma operación
+ del negocio en el día a día.
+por esa razon es mejor utilizar los sitemas informaticos para la toma de decisiones
