@@ -72,4 +72,12 @@ por esa razon es mejor utilizar los sitemas informaticos para la toma de decisio
   aquellos administradores que puedan manejar la incertidumbre, la
   ambiguedad, pueden tener posibilidades de exito.
   el administrador moderno tiene que saber sobrellevar todas las cosas de la empresa tener confianza en lo que se esta haciendo
+
+9- ¿Por qué es importante conocer el organigrama de una organización al momento de realizar un análisis de los
+cambios o mejoras que se pueden hacer en esta?
+   es importantes porque ahi podremos encontrar a las personas que estan en los mandos medios y
+   en los mandos altos con los cuales se debe tratar con los que se tiene que hablar ya que son las personas
+   que saben como son los procesos de la empresa con los que se tiene que hablar y asi sacar los requerimientos
+   del cual se puede valer para poder empezar hacer un prototipo para  luego
+   empezar hacer los cambios o mejoras que se quieren hacer o desarrollar.
   
